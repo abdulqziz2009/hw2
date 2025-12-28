@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Flutter
 .dart_tool/
 .packages
@@ -19,3 +20,20 @@ ios/Flutter/App.framework
 .vscode/
 .idea/
 *.iml
+=======
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+>>>>>>> 48a551a78321cb91762c1ffa1246130b3bc2721f
